@@ -8,4 +8,4 @@ Specto is commercial software and cannot be used without a license — see `LICE
 
 ## Support
 
-Please email [mailto:support@specto.dev](support@specto.dev) if you have any questions on how to acquire a license or integrate the SDK into your application.
+Please email [support@specto.dev](mailto:support@specto.dev) if you have any questions on how to acquire a license or integrate the SDK into your application.
