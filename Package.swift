@@ -12,8 +12,8 @@ let package = Package(
         .binaryTarget(
             name: "Specto",
             
-            url: "https://releases.specto.dev/ios/sdk/alpha/xcframework/0.2.4+9551279df.zip",
+            url: "https://releases.specto.dev/ios/sdk/alpha/xcframework/0.2.4+a1a9ca4b3.zip",
             
-            checksum: "ebf482dff5c9fe753591c57dd055cead9da60d7823f676e8afc4d0c6eeddf686"),
+            checksum: "06a2506655d15155364cd9586f32bc6e46d13d73854590f74798dbbfe3750f6e"),
     ]
 )
