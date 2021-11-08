@@ -14,6 +14,6 @@ let package = Package(
             
             url: "https://releases.specto.dev/ios/sdk/alpha/xcframework/1.3.3+52179992a.zip",
             
-            checksum: "5b02af47c1c5f4a4e02f83d2f85f42a0b14b4ebbeb80590c35d1910caae34501"),
+            checksum: "757bb261757a89e21cffa88edf01aa5544546a581ec8cab8943b333a3cef9459"),
     ]
 )
